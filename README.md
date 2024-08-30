@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @whoisreethick
-- 👀 I’m interested and learning about video games development, programming!
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Reethick.
+- 👀 I’m interested and learning about web development(primary focus) and game dev(secondary focus).
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me instagram: @whoisreethick
 - 
 
